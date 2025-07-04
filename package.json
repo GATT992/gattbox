@@ -1,0 +1,17 @@
+{
+  "name": "gattbox",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/adapter-vercel": "^2.1.0",
+    "@sveltejs/kit": "^1.29.0",
+    "svelte": "^3.59.2",
+    "typescript": "^5.2.2",
+    "vite": "^5.2.0"
+  }
+}
